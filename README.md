@@ -15,10 +15,6 @@ Research Software Developer at the **Center for Innovative Design and Analysis (
 
 My work sits at the intersection of **machine learning**, **large-scale record linkage**, and **biomedical signal processing**. I care about writing reproducible code, building things that work on real messy data, and making analysis accessible.
 
-- 🔬 Passionate about **applying ML to solve real-world healthcare problems** — from record linkage to disease biomarker discovery
-- 🎓 **M.S. Computer Science** — University of Colorado Denver (GPA: 3.67)
-- 📫 Reach me at **abhinav.pundir@ucdenver.edu**
-
 ---
 
 ## 💻 Tech Stack
