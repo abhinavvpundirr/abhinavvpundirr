@@ -21,14 +21,6 @@ My work sits at the intersection of **machine learning**, **large-scale record l
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavvpundirr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### Machine Learning & Deep Learning
@@ -86,8 +78,4 @@ My work sits at the intersection of **machine learning**, **large-scale record l
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">
-  <i>"Building ML systems that work on real data, not just benchmarks."</i>
 </p>
